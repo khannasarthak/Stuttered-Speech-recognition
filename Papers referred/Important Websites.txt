@@ -1,0 +1,27 @@
+Websites:
+
+https://www.quora.com/What-should-I-do-to-begin-working-on-speech-recognition
+https://www.quora.com/If-I-start-reading-scientific-papers-which-are-the-must-read-papers-on-speech-to-text-conversion
+http://in.mathworks.com/company/newsletters/articles/developing-an-isolated-word-recognition-system-in-matlab.html
+http://tldp.org/HOWTO/Speech-Recognition-HOWTO/inside.html
+http://www.cslu.ogi.edu/tutordemos/nnet_recog/recog.html
+http://andrew.gibiansky.com/blog/machine-learning/speech-recognition-neural-networks/
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+http://surguy.net/articles/speechrecognition.xml
+
+
+Open source tools and softwares:
+
+http://cmusphinx.sourceforge.net/wiki/
+http://kaldi-asr.org/
+http://htk.eng.cam.ac.uk/
+http://julius.osdn.jp/en_index.php
+
+http://scikit-learn.org/stable/index.html
+
+
+On GitHub:
+https://github.com/VikParuchuri/scribe
+https://github.com/rcorcs/NatI
+https://github.com/t4ngo/dragonfly
+https://github.com/michaelgundlach/pyspeech
